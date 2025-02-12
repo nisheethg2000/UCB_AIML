@@ -1,6 +1,6 @@
 # Data-Driven Insights into Coupon Acceptance Rate by Amazon Truck Drivers
 
-**Jupyter Notebook with code: [here](https://github.com/nisheethg2000/UCB_AIML/blob/main/Practical%20Application/prompt_II.ipynb).**
+**Jupyter Notebook with code: [here](https://github.com/nisheethg2000/UCB_AIML/tree/519b499bf0503f18face3f1f4e4b4e7bc7d1ad0d/Practical%20Application).**
 
 
 ## Business Goal
