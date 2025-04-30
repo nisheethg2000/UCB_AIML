@@ -69,6 +69,6 @@ The purpose of the customer service chatbot is to provide efficient, 24/7 suppor
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook 1](https://github.com/nisheethg2000/UCB_AIML/raw/refs/heads/main/Practical%20Applications/Practical%20Application%20M20/evaluate_chatbot_data.ipynb)
 
 
